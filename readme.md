@@ -8,3 +8,5 @@ Creating a simple python service and testing azure things with it.
 `pip3 -r requirements.txt`
 
 (PowerShell environment variable set: `$env:FLASK_APP = "main.py"`)
+
+![passwordendpoint]('passwordendpoint.PNG')
